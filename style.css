@@ -10,9 +10,6 @@
     justify-content: center;
 }
 
-.calendarborder {
-    border: solid black;
-}
 
 .calendar {
     display: flex; 
@@ -39,3 +36,24 @@
     width: 60px;
     height: 30px; 
  }
+
+ .ltoTitle {
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin-top: 3rem;
+}
+
+.lto {
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin-top: 3rem;
+}
+
+.ltoImage {
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin-top: 3rem;
+}
