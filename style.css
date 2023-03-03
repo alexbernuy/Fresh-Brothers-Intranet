@@ -37,23 +37,18 @@
     height: 30px; 
  }
 
- .ltoTitle {
-    display: flex; 
+
+.newsletter {
+    background-color: gray;
+    border-radius: 15%;
+    display: flex;
     justify-content: center;
-    align-items: center; 
-    margin-top: 3rem;
+    align-items: center;
+    margin: 4rem 20rem;
+    flex-direction: column;
 }
 
-.lto {
-    display: flex; 
-    justify-content: center;
-    align-items: center; 
-    margin-top: 3rem;
-}
-
-.ltoImage {
-    display: flex; 
-    justify-content: center;
-    align-items: center; 
-    margin-top: 3rem;
+.newsImage {
+    width: 555px;
+    height: 800px;
 }
