@@ -28,13 +28,14 @@
      position: absolute;
      top: 0;
      left: 0;
-     width: 100%;
+     width: 100vw;
      height: 100%;
+    
  }
 
  .FB-Logo {
-    width: 60px;
-    height: 30px; 
+    width: 80px;
+    height: 40px; 
  }
 
 
@@ -56,3 +57,38 @@
 .mainTitle {
     font-family: 'Anton', sans-serif;
 }
+
+.marketing-wallpaper {
+    background-image: url("FB-marketing.jpg");
+    background-size: cover;
+    
+}
+
+
+.padding-promos {
+    padding-top: 2rem;
+    padding-bottom: .1rem;
+}
+
+.padding-fundraiser {
+    padding-top: .1rem;
+    padding-bottom: 2rem;
+}
+
+
+.hqDirectory {
+    position: relative;
+     width: 100%;
+     height: 0;
+     padding-bottom: 56.25%;
+     
+     
+
+ }
+ .hqDoc {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100vw;
+     height: 100%;
+ }
